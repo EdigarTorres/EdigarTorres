@@ -1,10 +1,6 @@
-<h1 align="center"> Edigar Torres
+Edigar Torres
 
-<h1 align="center"> **`Desenvolvedor FullStack`**
-
-<h1 align="center"> Bem vindo ao meu perfil GitHub
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EdigarTorres.EdigarTorres" />
-    </h1>
+<**`Desenvolvedor FullStack`**
 
 ### 🤖 Linguagens e Tecnologias
 
