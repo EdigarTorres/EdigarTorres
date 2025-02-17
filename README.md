@@ -1,4 +1,4 @@
-# Edigar Torres
+# **`Edigar Torres`**
 
 <div align="center">
 <a href="https://github.com/isb-op">
