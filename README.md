@@ -6,9 +6,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EdigarTorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## **`Desenvolvedor FullStack`**
+### **`Desenvolvedor FullStack`**
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
