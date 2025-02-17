@@ -1,6 +1,6 @@
-Edigar Torres
+# Edigar Torres
 
-<**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`**
 
 ### 🤖 Linguagens e Tecnologias
 
